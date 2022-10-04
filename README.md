@@ -26,7 +26,7 @@ chapters:
  - title: Infos IMD
    url: https://eracom.ch/informations-eleves-id/
  - title: MDN
-   url: 
+   url: https://developer.mozilla.org/fr/docs/Learn
 
 # pied de page   
 footer_col_1: <ul class="contact-list">
